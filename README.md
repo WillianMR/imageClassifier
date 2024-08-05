@@ -6,5 +6,5 @@ This is a simple Flask web application that allows users to upload images, proce
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/seu-usuario/image-classifier-app.git
+   git clone https://github.com/WillianMR/imageClassifier.git
    cd image-classifier-app
